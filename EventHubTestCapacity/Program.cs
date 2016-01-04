@@ -12,7 +12,7 @@ namespace EventHubTestCapacity
     class Program
     {
         static string eventHubName = "";
-        static string connectionString = ";
+        static string connectionString = "";
         static void Main(string[] args)
         {
 
